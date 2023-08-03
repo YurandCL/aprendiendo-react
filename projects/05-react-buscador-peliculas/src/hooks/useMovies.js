@@ -1,6 +1,3 @@
-// import responseMovies from '../mock/with-results.json'
-// import withoutResults from './mock/without-results.json'
-
 import { useCallback, useMemo, useRef, useState } from 'react'
 import { searchMovies } from '../services/movies'
 
